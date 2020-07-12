@@ -12,4 +12,15 @@ Igualmente, la función de envío de correos usa el queue worker de Laravel, por
 
 Para crear la base de datos y alimentarla con información, corra el comando `php artisan imuko:reseed`.
 
+### Cambiar en el `.env`
+
+    APP_URL=[url de la app]
+    
+    DB_DATABASE=[nombre de la bd]
+    DB_USERNAME=[usuario]
+    DB_PASSWORD=[contraseña]
+    
+    MAIL_USERNAME=[correovalido@gmail.com]
+    MAIL_PASSWORD=[micontrasena]
+
 App desarrollada por Guillermo Agudelo para Imuko.
