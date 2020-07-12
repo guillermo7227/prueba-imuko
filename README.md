@@ -10,4 +10,6 @@ Esta app usa una cuenta de Gmail para enviar correos, por favor configure unas c
 
 Igualmente, la función de envío de correos usa el queue worker de Laravel, por lo que debe correr el comando `php artisan queue:work` para permitir el envío de correos.
 
+Para crear la base de datos y alimentarla con información, corra el comando `php artisan imuko:reseed`.
+
 App desarrollada por Guillermo Agudelo para Imuko.
