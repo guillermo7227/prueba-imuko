@@ -22,5 +22,7 @@ Para crear la base de datos y alimentarla con información, corra el comando `ph
     
     MAIL_USERNAME=[correovalido@gmail.com]
     MAIL_PASSWORD=[micontrasena]
+    
+Puede ver una copia de esta app en funcionamiento en [https://imuko.guillermoagudelo.ga](https://imuko.guillermoagudelo.ga)
 
 App desarrollada por Guillermo Agudelo para Imuko.
